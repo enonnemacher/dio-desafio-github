@@ -24,4 +24,11 @@ public class Banco {
     public void setContas(List<Conta> contas) {
         this.contas = contas;
     }
+
+    @Override
+    public String toString() {
+        return "Banco {" +
+                " contas do banco = " + contas +
+                '}';
+    }
 }
