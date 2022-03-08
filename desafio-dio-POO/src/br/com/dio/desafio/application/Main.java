@@ -1,5 +1,6 @@
 package br.com.dio.desafio.application;
 
+import br.com.dio.desafio.domain.Conteudo;
 import br.com.dio.desafio.domain.Curso;
 import br.com.dio.desafio.domain.Mentoria;
 
